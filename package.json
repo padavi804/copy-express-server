@@ -1,0 +1,16 @@
+{
+  "name": "copy-express-server",
+  "version": "1.0.0",
+  "description": "For this activity, you will be going through the same steps from lecture. You will always be able to reference notes when creating a server, there is no need to memorize these steps. Focus on the big picture and making sure everything is setup correctly. When you are done, your site should be viewable on http://localhost:5001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
